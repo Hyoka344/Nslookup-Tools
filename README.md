@@ -55,3 +55,6 @@ project-folder/
 - Script hanya bekerja di sistem yang mendukung perintah `nslookup` (Windows, Linux, macOS).
 - File inventory harus memiliki header `IP Address` dan `Computer Name`.
 - Output menggunakan encoding UTF-8.
+
+
+# Developed by Hyoka344
