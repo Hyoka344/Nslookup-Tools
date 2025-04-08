@@ -57,12 +57,13 @@ project-folder/
 - Output menggunakan encoding UTF-8.
 
 
-MIT License (Short Form)
+
+
+
+
 
 Copyright (c) 2025 Hyoka
-
 Permission is granted to use, modify, and distribute this software for any purpose with or without fee.
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
-Developed by Hyoka
+## Developed by Hyoka
