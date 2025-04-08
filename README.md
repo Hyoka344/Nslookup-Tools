@@ -4,6 +4,7 @@ Skrip Python ini digunakan untuk mengecek daftar IP terhadap inventory lokal (`I
 
 ## 📂 Struktur File
 
+```
 project-folder/
 │
 ├── input.csv                   # File input berisi IP dan host asal
@@ -11,6 +12,7 @@ project-folder/
 ├── nslookup_results.csv        # Hasil output dari pemrosesan
 ├── script.py                   # Skrip utama
 └── README.md                   # Dokumentasi proyek
+```
 
 ## 📥 Format File Input
 
