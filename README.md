@@ -1,13 +1,9 @@
-Berikut isi lengkap untuk `README.md` dalam format Markdown:
-
-```markdown
 # 🔍 IP Inventory Lookup & nslookup Tool
 
 Skrip Python ini digunakan untuk mengecek daftar IP terhadap inventory lokal (`InvAllComputersSummary.csv`). Jika IP tidak ditemukan, skrip akan melakukan pencarian nama host menggunakan perintah `nslookup`. Hasil akhirnya disimpan dalam file CSV.
 
 ## 📂 Struktur File
 
-```
 project-folder/
 │
 ├── input.csv                   # File input berisi IP dan host asal
@@ -15,7 +11,6 @@ project-folder/
 ├── nslookup_results.csv        # Hasil output dari pemrosesan
 ├── script.py                   # Skrip utama
 └── README.md                   # Dokumentasi proyek
-```
 
 ## 📥 Format File Input
 
